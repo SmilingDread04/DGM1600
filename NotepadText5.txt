@@ -715,24 +715,24 @@ qaids
 qadis
 qophs
 4-letter words that start with q
-quit
-quiz
-quid
-quad
-quay
-quip
-quin
-quod
-quag
-qoph
-qaid
-qadi
-qats
-quai
-quey
+Quit
+Quiz
+Quid
+Quad
+Quay
+Quip
+Quin
+Quod
+Quag
+Qoph
+Qaid
+Qadi
+Qats
+Quai
+Quey
 3-letter words that start with q
-qua
-qis
-qat
+Qua
+Qis
+Qat
 2-letter words that start with q
-qi
+Qi
